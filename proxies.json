@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "New Proxy",
+    "server": "server.com",
+    "port": 8080,
+    "type": "HTTP",
+    "active": false,
+    "user": "",
+    "password": ""
+  },
+  {
+    "id": 2,
+    "name": "New Proxy",
+    "server": "server.com",
+    "port": 8080,
+    "type": "HTTP",
+    "active": true,
+    "user": "",
+    "password": ""
+  }
+]
